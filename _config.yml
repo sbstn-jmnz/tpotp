@@ -20,13 +20,12 @@
 
 title: The Power Of The Pudú
 email: contacto@thepowerofthepudu.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Sitio oficial de la banda de charquican metal The Power Of The Pudú
+description: "Sitio oficial de la banda de The Power Of The Pudú"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thepowerofthepudu.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  sbstn-jmnz
-
+favicon: img/pudu.ico
 # Build settings
 theme: minima
 plugins:
